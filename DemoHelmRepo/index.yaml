@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mydemo:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-06-09T14:46:19.261030146+02:00"
+    description: A demo Helm chart
+    digest: 9af74b1b79a8b60a621dcb73551f07fdebd86f85bbfda8d26f2bd2ad8dd3c5d2
+    name: mydemo
+    type: application
+    urls:
+    - mydemo-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-06-09T14:46:19.260568652+02:00"
